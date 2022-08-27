@@ -9,9 +9,11 @@ Simple way for create new frontend app
 
 # Usage 👨🏼‍💻
 
-1.  Type `yarn` for install dependencies and `yarn dev`
-2.  Type `yarn dev` for run server
-3.  Start developing 🥳
+1. Clone repo `git clone https://github.com/vafomin/react-starter.git`
+2. Go to the folder `cd react-starter`
+3. Type `yarn` for install dependencies
+4. Type `yarn dev` for run server
+5. Start developing 🥳
 
 # License 📜
 
